@@ -35,7 +35,7 @@ for (let i = 0; i < companies.length; i++) {
 const option = {
     title: {
         text: '研究五家公司股价趋势',
-        x: 'center',
+        x: 'left',
         y: 0,
     },
     legend: {
